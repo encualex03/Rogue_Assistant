@@ -1,0 +1,8 @@
+requests
+pyautogui
+keyboard
+sounddevice
+numpy
+scipy
+faster-whisper
+Pillow
