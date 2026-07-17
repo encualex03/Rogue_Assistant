@@ -1,4 +1,5 @@
 # Rogue Assistant (Mark 1)
+![Rogue Assistant Cover](screenshot.png)
 
 Rogue is a highly advanced, locally hosted, multimodal AI assistant designed to operate entirely offline within a Windows PowerShell environment. Built to mimic a high-end, executive AI, Rogue features global system hooks, vision processing, local speech-to-text, and near-instant text-to-speech feedback.
 
