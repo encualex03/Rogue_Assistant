@@ -1,0 +1,11 @@
+# Ignore models and large binaries
+*.gguf
+*.onnx
+
+# Ignore temporary audio/logs/memory
+*.wav
+*.txt
+
+# Ignore OS files
+.DS_Store
+__pycache__/
